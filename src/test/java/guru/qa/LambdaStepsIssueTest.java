@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static io.qameta.allure.Allure.*;
 import static org.openqa.selenium.By.linkText;
 
-public class IssueTest_LambdaSteps {
+public class LambdaStepsIssueTest {
 
     private static final String REPOSITORY = "RetroXrus/HomeWork_10_Allure-Intro";
 

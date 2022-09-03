@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Selectors.withText;
 import static com.codeborne.selenide.Selenide.*;
 import static org.openqa.selenium.By.linkText;
 
-public class IssueTest_StepAnnotation {
+public class StepAnnotation {
 
     @Step("Открываем главную страницу")
     public void openMainPage() {
